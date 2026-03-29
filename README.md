@@ -8,7 +8,6 @@
 ## Featured Projects
 - 🎲 [chinese-learning-app](https://github.com/LiangxueC/chinese-learning-app) — My First Project. (C++)
 - 🛠️ [USC-Companion](https://github.com/LiangxueC/USC-Companion) — Companion app project. (TypeScript)
-- 🤖 [LiangxueC](https://github.com/LiangxueC/LiangxueC) — Profile / meta repository (empty/placeholder).
 
 ## Tech & Interests
 - 🧰 Languages: C++, TypeScript
